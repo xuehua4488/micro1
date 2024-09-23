@@ -5,7 +5,7 @@ pipeline{
   stages{
     stage("hello"){
       steps{
-        echo "hello1 from jenkinsfile in micro1"
+        echo "hello11 from jenkinsfile in micro1 branch"
       }
     }
   }
