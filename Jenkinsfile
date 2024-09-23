@@ -5,7 +5,7 @@ pipeline{
   stages{
     stage("hello"){
       steps{
-        echo "hello11 from jenkinsfile in micro1 branch"
+        echo "JUST for testing in micro1 branch"
       }
     }
   }
